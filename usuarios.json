@@ -1,0 +1,17 @@
+{
+  "devs": {
+    "senha": "$2y$10$0wyqls7A.TZpvH23LYXJvO.9W0cTjLCD9ZUTcKmg6FOYdz1eD4TXW",
+    "admin": true,
+    "creditos": 0
+  },
+  "usuario1": {
+    "senha": "$2y$10$VNwUpGCVm21wWZVamYoYNO09kLAcHkIO/mpqC2k20RRZjrEmOnyQK",
+    "admin": false,
+    "creditos": 10
+  },
+  "usuario2": {
+    "senha": "$2y$10$N6rTrSgUipvDycCL13KO7uMsOGZjcDtUZV4vHAXbQpWqILKV4DgQ6",
+    "admin": false,
+    "creditos": 5
+  }
+}
